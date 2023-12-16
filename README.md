@@ -1,1 +1,1 @@
-# InvestGMX
+#xstrata
